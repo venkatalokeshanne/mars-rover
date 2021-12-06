@@ -9,5 +9,5 @@ test('Render Mars Rover', () => {
             <Space />
         </Provider>
     )
-    expect(getByText(/Mars Rover/i)).toBeInTheDocument();
+    expect(getByText(/"Mars Rover"/i)).toBeInTheDocument();
 })
