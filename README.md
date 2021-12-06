@@ -1,9 +1,13 @@
 Libraries used : 
 
-Redux toolkit (State management), 
-Bootstrap (CSS Framework)
+## Redux toolkit (State management) <br />
+## Bootstrap (CSS Framework)
 
-## Available Scripts
+## Instructions
+
+### `npm install`
+
+To install all the node modules
 
 ### `npm start`
 
