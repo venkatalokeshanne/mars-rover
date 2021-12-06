@@ -1,0 +1,12 @@
+
+.spaceCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.marsRover {
+    position: relative;
+    height: 500px;
+}

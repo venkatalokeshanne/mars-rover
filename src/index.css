@@ -1,0 +1,12 @@
+body {
+  font-family:Georgia, serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  height: 100vh;
+}
